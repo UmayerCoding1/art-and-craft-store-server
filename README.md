@@ -1,1 +1,1 @@
-server site link = https://art-and-craft-server-swart.vercel.app/
+server site link = https://art-and-craft-store-server-site.vercel.app/
